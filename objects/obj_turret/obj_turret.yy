@@ -1,5 +1,5 @@
 {
-    "id": "5508314f-f72d-4a8f-abc3-d674c1d84ebf",
+    "id": "dd3ea6fd-e777-42a7-882e-9c7b065327b2",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_turret",
