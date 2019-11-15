@@ -114,7 +114,7 @@
             "Key": "84b9a018-0352-4911-930a-a7f0b670ba54",
             "Value": {
                 "id": "a0a9f40c-b5bd-4e91-83dd-0f746f841e50",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_mainMenu\\rm_mainMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -172,6 +172,14 @@
                 "id": "974e91e4-526c-4734-bb96-e3f2d6beba81",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d5375a20-173c-45ba-aa45-e308efe3a191",
+            "Value": {
+                "id": "d218b285-617b-4c59-a473-1e41aa460262",
+                "resourcePath": "rooms\\rm_level\\rm_level.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
