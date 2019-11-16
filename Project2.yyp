@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "cb450d23-1f5d-4a01-b500-161faea891dd",
+            "Value": {
+                "id": "54b9004f-9420-4a77-8aa2-6394460b7f9e",
+                "resourcePath": "sprites\\bg_level_background\\bg_level_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "974e91e4-526c-4734-bb96-e3f2d6beba81",
