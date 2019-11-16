@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2bc3275b-2ad7-4d9b-b6c0-3ce58c3a2420",
+            "Value": {
+                "id": "d6c25d97-ea79-4c3d-b12b-641b01777a32",
+                "resourcePath": "sounds\\snd_menu_switch\\snd_menu_switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "319dd61c-216c-4ae0-869d-ff1b021859bb",
             "Value": {
                 "id": "641bd097-4339-4c17-9421-8da68f757275",
