@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1a40bcea-be3b-41c2-b4aa-e770b01b7654",
+            "Value": {
+                "id": "a152c357-5bc5-48de-8067-e12c7a67afd0",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a7bd850-8137-4eee-ad44-819163615700",
             "Value": {
                 "id": "7478756c-693f-4fe4-82ee-67d3cc5b0a3d",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "6b31e766-c7bf-42aa-95a1-5aa80f3c02f1",
+            "Value": {
+                "id": "f2d707c4-a964-46f0-940b-5051b66482bb",
+                "resourcePath": "sprites\\spr_block_with_gap\\spr_block_with_gap.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "78caa05a-84a3-4886-bbcf-770d80769d97",
             "Value": {
                 "id": "3ec49ab0-9be8-4a41-855d-41c8d34a635d",
@@ -247,11 +263,11 @@
             }
         },
         {
-            "Key": "800de40a-51bf-4797-8254-f9f63ac7c341",
+            "Key": "7dfb90fa-e4b1-47b5-9b5b-4f68062af915",
             "Value": {
-                "id": "d4405f93-f12b-46d8-958e-fb2f3b41aa75",
-                "resourcePath": "objects\\obj_killer_laser\\obj_killer_laser.yy",
-                "resourceType": "GMObject"
+                "id": "fd0d42ec-5713-4120-90c8-eecd6c3bfceb",
+                "resourcePath": "sprites\\spr_wall_coliision\\spr_wall_coliision.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +276,14 @@
                 "id": "a0a9f40c-b5bd-4e91-83dd-0f746f841e50",
                 "resourcePath": "rooms\\rm_mainMenu\\rm_mainMenu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8f371a75-ed5d-46d4-a49c-924f99ff24ea",
+            "Value": {
+                "id": "4ca8f3d9-0852-47a1-bd86-3f2fc4f64230",
+                "resourcePath": "objects\\obj_wall_with_gap\\obj_wall_with_gap.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -415,14 +439,6 @@
             }
         },
         {
-            "Key": "d388a53f-4b64-4bf7-84bc-34fd2c8a2a26",
-            "Value": {
-                "id": "00e13d5b-678c-4c1d-a64a-f400fe90df29",
-                "resourcePath": "sprites\\spr_laser\\spr_laser.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d5375a20-173c-45ba-aa45-e308efe3a191",
             "Value": {
                 "id": "d218b285-617b-4c59-a473-1e41aa460262",
@@ -476,6 +492,14 @@
                 "id": "bbe49e1f-a0b2-4958-a418-704004a9a49d",
                 "resourcePath": "sounds\\sfx_laser_fire\\sfx_laser_fire.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f35e70bd-9189-4b9d-bdab-7c4d863a2852",
+            "Value": {
+                "id": "6c24e99b-be1b-4ee2-ba3e-dd28c1a461bc",
+                "resourcePath": "views\\f35e70bd-9189-4b9d-bdab-7c4d863a2852.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
