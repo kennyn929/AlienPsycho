@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "5b476fe4-2f93-416f-99a9-b9b4fa00524a",
+            "Value": {
+                "id": "d021ab93-5e8f-4279-8fa0-84bd3757bced",
+                "resourcePath": "sprites\\spr_green_slide_loop\\spr_green_slide_loop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f9eb8ee-8803-4de9-8a28-98e7d6c158aa",
             "Value": {
                 "id": "6d56a555-57fe-48b8-99e6-74aafeb5f786",
