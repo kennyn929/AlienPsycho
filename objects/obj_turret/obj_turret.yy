@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_turret",
     "eventList": [
-        
+        {
+            "id": "753acfe9-2e9e-45ce-86f5-2ef61b5da1f0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "2221471a-b3b1-422f-93e2-c046a2146482",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "dd3ea6fd-e777-42a7-882e-9c7b065327b2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

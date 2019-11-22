@@ -1,10 +1,19 @@
 {
-    "id": "9c706dfc-534e-4232-93ad-8edea8affcec",
+    "id": "9a5df3e2-de89-4ebc-ae6f-027a564155b8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_power_blue",
+    "name": "obj_game_controller",
     "eventList": [
-        
+        {
+            "id": "e0dcf36a-08d0-4e20-b56e-a91e78f7d4a6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "9a5df3e2-de89-4ebc-ae6f-027a564155b8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f6d655ca-d8e1-48c6-a79d-1f5b98e8659a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
