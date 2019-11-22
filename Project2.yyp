@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "912130c0-a846-4b87-8e6b-a7401cb2278f",
+            "Value": {
+                "id": "37db58cf-9b82-487a-95e4-0306ee5bb32a",
+                "resourcePath": "sprites\\spr_laser\\spr_laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "92e76d6c-4a66-4c79-a039-63d066d40325",
             "Value": {
                 "id": "f9cb8a22-a97a-4dd4-87e2-037b0e7953d1",
@@ -483,14 +491,6 @@
             "Value": {
                 "id": "e1f31450-e017-46a8-afb1-3fdbc5bb7a68",
                 "resourcePath": "sprites\\spr_powerup_red\\spr_powerup_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ef3c84c6-8e1c-4521-aca8-1f918bce5979",
-            "Value": {
-                "id": "cccf9529-7c60-4234-a953-e5f2a3a25d6e",
-                "resourcePath": "sprites\\sprite15\\sprite15.yy",
                 "resourceType": "GMSprite"
             }
         },

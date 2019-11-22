@@ -1,5 +1,5 @@
 {
-    "id": "d388a53f-4b64-4bf7-84bc-34fd2c8a2a26",
+    "id": "912130c0-a846-4b87-8e6b-a7401cb2278f",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_laser",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "e217f161-4e5b-4590-bc25-bd66e5950241",
+            "id": "0ae709a6-7701-41f3-a287-bff6de851c26",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "d388a53f-4b64-4bf7-84bc-34fd2c8a2a26",
+            "SpriteId": "912130c0-a846-4b87-8e6b-a7401cb2278f",
             "compositeImage": {
-                "id": "c0c2af74-fb9f-4b00-9c63-49ca7ca975cd",
+                "id": "3120c104-a59d-4ec0-83b4-f657f7f9c49f",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "e217f161-4e5b-4590-bc25-bd66e5950241",
+                "FrameId": "0ae709a6-7701-41f3-a287-bff6de851c26",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "1083626e-2c26-460c-8397-830a0810a927",
+                    "id": "1d56f591-2e62-4e87-bf5e-b4f92f10d7c9",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "e217f161-4e5b-4590-bc25-bd66e5950241",
-                    "LayerId": "7edab0ca-be20-43bd-8dbb-054dc56b7914"
+                    "FrameId": "0ae709a6-7701-41f3-a287-bff6de851c26",
+                    "LayerId": "2c1545de-ddc6-4ae3-b137-bc5d44ee60cc"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 128,
     "layers": [
         {
-            "id": "7edab0ca-be20-43bd-8dbb-054dc56b7914",
+            "id": "2c1545de-ddc6-4ae3-b137-bc5d44ee60cc",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "d388a53f-4b64-4bf7-84bc-34fd2c8a2a26",
+            "SpriteId": "912130c0-a846-4b87-8e6b-a7401cb2278f",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 3,
+    "origin": 0,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -66,5 +66,5 @@
     "type": 0,
     "width": 1920,
     "xorig": 0,
-    "yorig": 64
+    "yorig": 0
 }
