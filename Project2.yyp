@@ -266,7 +266,7 @@
             "Key": "7dfb90fa-e4b1-47b5-9b5b-4f68062af915",
             "Value": {
                 "id": "fd0d42ec-5713-4120-90c8-eecd6c3bfceb",
-                "resourcePath": "sprites\\spr_wall_coliision\\spr_wall_coliision.yy",
+                "resourcePath": "sprites\\spr_wall_collision\\spr_wall_collision.yy",
                 "resourceType": "GMSprite"
             }
         },
