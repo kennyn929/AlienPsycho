@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_obstacle_laser",
     "eventList": [
-        
+        {
+            "id": "d9acba3d-9b52-4627-8697-de21daa9dfae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "7fdb46e7-6c1a-461f-8f51-8f0edf098649"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
