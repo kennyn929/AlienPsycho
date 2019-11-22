@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "5a1ff6d2-8175-4527-96c7-b5f35a8483f0",
+            "Value": {
+                "id": "ca8e1cc3-894e-4f27-955e-ee2306056391",
+                "resourcePath": "sprites\\spr_red_burst\\spr_red_burst.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b476fe4-2f93-416f-99a9-b9b4fa00524a",
             "Value": {
                 "id": "d021ab93-5e8f-4279-8fa0-84bd3757bced",
