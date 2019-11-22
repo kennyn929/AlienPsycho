@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "7dfb90fa-e4b1-47b5-9b5b-4f68062af915",
-            "Value": {
-                "id": "fd0d42ec-5713-4120-90c8-eecd6c3bfceb",
-                "resourcePath": "sprites\\spr_wall_coliision\\spr_wall_coliision.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7fdb46e7-6c1a-461f-8f51-8f0edf098649",
             "Value": {
                 "id": "5020a307-c3d8-4e3c-baa5-01986f7d583c",
