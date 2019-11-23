@@ -1,9 +1,13 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4CDB1E99
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "other.state"
-other.state = 1;
+/// @DnDApplyTo : other
+/// @DnDArgument : "expr" "States.blue"
+/// @DnDArgument : "var" "state"
+with(other) {
+state = States.blue;
+
+}
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
