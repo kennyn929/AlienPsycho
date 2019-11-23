@@ -10,7 +10,7 @@ else if num == 1
 }
 else if num == 2
 {
-	instance_create_layer(1088, 544, "Instances", obj_powerup_green);
+	//instance_create_layer(1088, 544, "Instances", obj_powerup_green);
 }
 	
 alarm_set(0, 60);

@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "8d20c299-863f-48d1-ad22-32b0f4c78343",
+            "Value": {
+                "id": "43880fd1-8abc-413d-beb1-e185746bde79",
+                "resourcePath": "sprites\\spr_red_jump\\spr_red_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f371a75-ed5d-46d4-a49c-924f99ff24ea",
             "Value": {
                 "id": "4ca8f3d9-0852-47a1-bd86-3f2fc4f64230",
