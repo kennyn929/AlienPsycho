@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "a4948f50-0771-45ac-96e4-81c6c0f9ac54",
+            "Value": {
+                "id": "bb8c2045-ab5b-462f-96cf-47173241878b",
+                "resourcePath": "sprites\\spr_green_jump\\spr_green_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a83e3ad9-bbfd-426b-8d8f-b91a66753932",
             "Value": {
                 "id": "29480d40-5e8e-4a60-9a11-7e50d6f58cb0",
