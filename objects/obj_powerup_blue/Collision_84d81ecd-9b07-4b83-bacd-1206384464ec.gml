@@ -4,3 +4,8 @@
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "other.state"
 other.state = 1;
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 26A7AE5E
+instance_destroy();
