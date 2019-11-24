@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "obj_wall_with_gap",
     "eventList": [
-        
+        {
+            "id": "a2fcdca9-f708-4366-9a08-3c56317886a6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8f371a75-ed5d-46d4-a49c-924f99ff24ea"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "6144142e-60ad-4fe0-a476-89507d453148",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

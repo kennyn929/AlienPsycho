@@ -463,6 +463,22 @@
             }
         },
         {
+            "Key": "b97212c2-fe1d-4cc7-801d-0ca902369a5a",
+            "Value": {
+                "id": "9d125c9f-bf1b-4624-9623-2c8072c3686f",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c018db89-3321-4033-864a-fdeff8703b95",
+            "Value": {
+                "id": "2489a006-850d-48d4-80a7-1ee19d297253",
+                "resourcePath": "objects\\obj_obstacle_spawner\\obj_obstacle_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c0696d2a-fcab-44a4-abf6-69c57dd9ba45",
             "Value": {
                 "id": "9751aa62-be6e-4f6b-b6e0-7d2efe003008",
