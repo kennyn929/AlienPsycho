@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "5e84fb0f-cbbb-4f03-88a3-3d5071559a49",
+            "Value": {
+                "id": "7b418701-7a52-4c30-a4e5-e85ff81cf50f",
+                "resourcePath": "objects\\obj_game_over\\obj_game_over.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f9eb8ee-8803-4de9-8a28-98e7d6c158aa",
             "Value": {
                 "id": "6d56a555-57fe-48b8-99e6-74aafeb5f786",
