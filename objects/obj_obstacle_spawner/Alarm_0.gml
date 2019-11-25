@@ -1,6 +1,6 @@
 /// @desc Generate obstacles
 
-num = irandom_range(0, 1) //Inclusive
+num = irandom_range(0, 2) //Inclusive
 
 if num == 0
 {
@@ -12,7 +12,7 @@ else if num == 1
 }
 else if num == 2
 {
-	//instance_create_layer(1312, 576, "Instances", obj_powerup_green);
+	instance_create_layer(1312, 576, "Instances", obj_turret);
 }
 	
 alarm_set(0, 120);
