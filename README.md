@@ -8,6 +8,10 @@ Team members:
 Game: AlienPsycho
 
 #Instructions/Controls:
+Main Menu
+- Enter - select option
+- Up and down arrow keys - switch between options
+
 Movement
 - Up arrow key: Jump
 
