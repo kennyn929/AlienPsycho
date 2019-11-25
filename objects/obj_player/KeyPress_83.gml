@@ -1,3 +1,3 @@
-/// @desc Change to blue state
+/// @desc Change to violet state
 
-//state = States.blue
+state = States.violet
