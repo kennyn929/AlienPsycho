@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "9e31582a-f2ba-4a17-a9bb-46135afcee4a",
+            "Value": {
+                "id": "d3e28eec-547f-4c75-b987-035490bb0efe",
+                "resourcePath": "sprites\\ui_score\\ui_score.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9fc2e2ef-348b-418a-80e9-d421c551fc92",
             "Value": {
                 "id": "8090a8bf-1c2d-41b2-8d48-49165ba42468",
@@ -452,6 +460,14 @@
                 "id": "70d96db3-55ad-4e3c-a572-6b6c938cd014",
                 "resourcePath": "sounds\\msc_game_startup\\msc_game_startup.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a2e8b108-bb88-4f13-9468-0f7ee27a7f22",
+            "Value": {
+                "id": "013d6ae8-d4c3-4d8d-bfbb-57fc29cb8e79",
+                "resourcePath": "views\\a2e8b108-bb88-4f13-9468-0f7ee27a7f22.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
