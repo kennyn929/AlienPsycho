@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "922f260d-d749-4787-bf4d-2b50cafadcd7",
+            "Value": {
+                "id": "d50c2a08-c425-4ab2-9643-ad81b11cf9c6",
+                "resourcePath": "sounds\\sfx_bomb_explode\\sfx_bomb_explode.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "92e76d6c-4a66-4c79-a039-63d066d40325",
             "Value": {
                 "id": "f9cb8a22-a97a-4dd4-87e2-037b0e7953d1",
@@ -428,6 +436,14 @@
                 "id": "8090a8bf-1c2d-41b2-8d48-49165ba42468",
                 "resourcePath": "views\\9fc2e2ef-348b-418a-80e9-d421c551fc92.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0234139-a9ff-45c5-b58b-9f27d56c6631",
+            "Value": {
+                "id": "70d96db3-55ad-4e3c-a572-6b6c938cd014",
+                "resourcePath": "sounds\\msc_game_startup\\msc_game_startup.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -580,6 +596,14 @@
                 "id": "974e91e4-526c-4734-bb96-e3f2d6beba81",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d3f68593-36fd-4440-a95e-86c9102dcc81",
+            "Value": {
+                "id": "90a81035-5bb4-423a-a98a-920a48274fae",
+                "resourcePath": "sounds\\msc_battle_theme\\msc_battle_theme.yy",
+                "resourceType": "GMSound"
             }
         },
         {
