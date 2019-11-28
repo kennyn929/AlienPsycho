@@ -1,5 +1,5 @@
-menu_x = x
-menu_y = y
+menu_x = room_width / 2
+menu_y = room_height / 2
 
 button_h = 32
 
