@@ -15,4 +15,4 @@ else if num == 2
 	instance_create_layer(1312, 576, "Instances", obj_turret);
 }
 	
-alarm_set(0, 120);
+alarm_set(0, room_speed - global.difficulty);
