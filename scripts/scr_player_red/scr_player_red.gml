@@ -1,35 +1,15 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 189219E2
-/// @DnDArgument : "code" "//prite_index = spr_red_run$(13_10)$(13_10)//Jumping$(13_10)if(keyboard_check_pressed(vk_up))$(13_10){	$(13_10)	if(obj_player.y == 640)$(13_10)	{$(13_10)		vspeed = -20$(13_10)		sprite_index = spr_red_jump$(13_10)		image_index = 0$(13_10)		audio_play_sound(sfx_jump, 1, false)$(13_10)	}$(13_10)}$(13_10)else$(13_10){$(13_10)	//vspeed = 5$(13_10)	if(obj_player.y < 640) sprite_index = spr_red_jump$(13_10)	$(13_10)	$(13_10)	else if(obj_player.y >= 640)$(13_10)	{$(13_10)		vspeed = 0$(13_10)		sprite_index = spr_red_run$(13_10)	}$(13_10)}$(13_10)$(13_10)$(13_10)if(keyboard_check(vk_right)) $(13_10){$(13_10)	sprite_index = spr_red_burst$(13_10)}"
+/// @DnDArgument : "code" "//prite_index = spr_red_run$(13_10)$(13_10)//Jumping$(13_10)scr_player_jump()$(13_10)$(13_10)$(13_10)if(keyboard_check_pressed(vk_right)) $(13_10){$(13_10)	state = PowerUp.red_bulldoze$(13_10)	return;$(13_10)}"
 //prite_index = spr_red_run
 
 //Jumping
-if(keyboard_check_pressed(vk_up))
-{	
-	if(obj_player.y == 640)
-	{
-		vspeed = -20
-		sprite_index = spr_red_jump
-		image_index = 0
-		audio_play_sound(sfx_jump, 1, false)
-	}
-}
-else
-{
-	//vspeed = 5
-	if(obj_player.y < 640) sprite_index = spr_red_jump
-	
-	
-	else if(obj_player.y >= 640)
-	{
-		vspeed = 0
-		sprite_index = spr_red_run
-	}
-}
+scr_player_jump()
 
 
-if(keyboard_check(vk_right)) 
+if(keyboard_check_pressed(vk_right)) 
 {
-	sprite_index = spr_red_burst
+	state = PowerUp.red_bulldoze
+	return;
 }
