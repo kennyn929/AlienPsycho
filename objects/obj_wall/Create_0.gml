@@ -1,1 +1,1 @@
-hspeed = 0
+hspeed = global.initialSpeed
