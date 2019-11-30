@@ -4,7 +4,7 @@ num = irandom_range(0, 3) //Inclusive
 
 if num == 0
 {
-	num = irandom_range(0, 1) //Inclusive
+	num = irandom_range(0, 2) //Inclusive
 	if num == 0
 	{
 		instance_create_layer(1312, 576, "Instances", obj_breakable_block);
@@ -13,6 +13,10 @@ if num == 0
 	{
 		instance_create_layer(1312, 576, "Instances", obj_wall);
 		instance_create_layer(1312, 448, "Instances", obj_breakable_block);
+	}
+	else if num == 2
+	{
+		instance_create_layer(1312, -128, "Instances", obj_breakable_block_falling);
 	}
 }
 else if num == 1
