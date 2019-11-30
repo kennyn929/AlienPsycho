@@ -12,9 +12,7 @@ else if num == 1
 }
 else if num == 2
 {
-	instance_create_layer(3000, 375, "Instances", obj_turret);
-	instance_create_layer(2650, 425, "instances", obj_obstacle_laser);
-
+	instance_create_layer(1312, 592, "Instances", obj_turret);
 }
 	
 timer = 120 - global.difficulty
