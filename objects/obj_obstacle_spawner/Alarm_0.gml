@@ -4,10 +4,21 @@ num = irandom_range(0, 3) //Inclusive
 
 if num == 0
 {
-	instance_create_layer(1312, 576, "Instances", obj_breakable_block);
+	num = irandom_range(0, 1) //Inclusive
+	if num == 0
+	{
+		instance_create_layer(1312, 576, "Instances", obj_breakable_block);
+	}
+	else if num == 1
+	{
+		instance_create_layer(1312, 576, "Instances", obj_wall);
+		instance_create_layer(1312, 448, "Instances", obj_breakable_block);
+	}
 }
 else if num == 1
 {
+	instance_create_layer(1312, 288, "Instances", obj_wall);
+	instance_create_layer(1312, 416, "Instances", obj_wall);
 	instance_create_layer(1312, 544, "Instances", obj_wall_with_gap);
 }
 else if num == 2
