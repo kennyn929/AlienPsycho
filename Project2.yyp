@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "06d7d5a3-828e-4491-a9af-e2aa4d2a8d6f",
+            "Value": {
+                "id": "1e5e7ffc-57b5-40d2-8e99-ecdc3edc4065",
+                "resourcePath": "objects\\obj_bomb\\obj_bomb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1337a8db-e22e-48ea-b8fc-1dd3a99a265b",
             "Value": {
                 "id": "774ea849-f9b7-4930-9ed5-748939d02f67",
@@ -115,6 +123,22 @@
             "Value": {
                 "id": "641bd097-4339-4c17-9421-8da68f757275",
                 "resourcePath": "sprites\\spr_blue_run\\spr_blue_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "38610d0d-aec4-406c-a69d-ef46545f773b",
+            "Value": {
+                "id": "45ae5117-e41e-4405-b207-2ef1fe17f4f1",
+                "resourcePath": "views\\38610d0d-aec4-406c-a69d-ef46545f773b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c9c3a26-f17e-4eb2-bc98-ccc7946be02b",
+            "Value": {
+                "id": "d2301c4d-3775-460b-ab2a-a51e8806efda",
+                "resourcePath": "sprites\\spr_bomb\\spr_bomb.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -295,6 +319,14 @@
             }
         },
         {
+            "Key": "69f25572-50b7-4ba4-a1b0-c4d1b9d8644e",
+            "Value": {
+                "id": "a181d529-38a2-48a9-b849-c564be3a9c5f",
+                "resourcePath": "sprites\\spr_bomb_explode\\spr_bomb_explode.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b31e766-c7bf-42aa-95a1-5aa80f3c02f1",
             "Value": {
                 "id": "f2d707c4-a964-46f0-940b-5051b66482bb",
@@ -441,9 +473,17 @@
         {
             "Key": "9e31582a-f2ba-4a17-a9bb-46135afcee4a",
             "Value": {
-                "id": "d3e28eec-547f-4c75-b987-035490bb0efe",
+                "id": "e7e27754-2292-4b24-8b1b-47d5e1e4b533",
                 "resourcePath": "sprites\\ui_score\\ui_score.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e8ae8d1-05ec-4fb0-8253-4bebcfbd9fbd",
+            "Value": {
+                "id": "e0101ef1-a4d8-4101-b69f-cd4a467770ee",
+                "resourcePath": "scripts\\scr_power_red\\scr_power_red.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -460,14 +500,6 @@
                 "id": "70d96db3-55ad-4e3c-a572-6b6c938cd014",
                 "resourcePath": "sounds\\msc_game_startup\\msc_game_startup.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "a2e8b108-bb88-4f13-9468-0f7ee27a7f22",
-            "Value": {
-                "id": "013d6ae8-d4c3-4d8d-bfbb-57fc29cb8e79",
-                "resourcePath": "views\\a2e8b108-bb88-4f13-9468-0f7ee27a7f22.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -663,6 +695,14 @@
             }
         },
         {
+            "Key": "d7f8ea7a-ebe6-4187-ab55-a4b8f91f01d4",
+            "Value": {
+                "id": "9518d6c1-bbea-432d-a787-33112bbc3d59",
+                "resourcePath": "scripts\\scr_power_green\\scr_power_green.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d958f167-f935-433e-82bb-fbf76cef4711",
             "Value": {
                 "id": "0ce5bfcf-f7df-46de-b0cc-c5c39fd28ce7",
@@ -735,6 +775,14 @@
             }
         },
         {
+            "Key": "f607b9da-343c-428c-92f9-80b96732e302",
+            "Value": {
+                "id": "ab5a5c15-c31f-447b-b111-055784aaf83e",
+                "resourcePath": "scripts\\scr_player_jump\\scr_player_jump.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f6d655ca-d8e1-48c6-a79d-1f5b98e8659a",
             "Value": {
                 "id": "679913f3-85ef-4b7b-93a7-513c125bc848",
@@ -763,7 +811,10 @@
         "6dae0628-e793-4cf3-a7a4-0996b275f918",
         "2da028da-d193-497e-ae09-a7a82f25753f",
         "d69fcfc5-98a2-459d-9296-144d359b8e63",
-        "3e34e3e1-d21b-4edf-bf39-881f59471760"
+        "3e34e3e1-d21b-4edf-bf39-881f59471760",
+        "9e8ae8d1-05ec-4fb0-8253-4bebcfbd9fbd",
+        "f607b9da-343c-428c-92f9-80b96732e302",
+        "d7f8ea7a-ebe6-4187-ab55-a4b8f91f01d4"
     ],
     "tutorial": ""
 }
