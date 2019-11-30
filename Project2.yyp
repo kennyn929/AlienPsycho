@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "4d2b79fc-1c0a-48d7-b64d-e78c118061a9",
+            "Value": {
+                "id": "dc3b3815-7bbb-48fa-91ca-a548481088d6",
+                "resourcePath": "objects\\obj_bomb_explode\\obj_bomb_explode.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d331b99-5643-4bcd-afe1-25971f36b88e",
             "Value": {
                 "id": "8daf9b1f-003c-4b98-8d91-3fca293f2b7a",
