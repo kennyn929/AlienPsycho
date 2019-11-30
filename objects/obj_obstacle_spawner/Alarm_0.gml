@@ -12,8 +12,8 @@ else if num == 1
 }
 else if num == 2
 {
-	instance_create_layer(2970, 310, "Instances", obj_turret);
-	instance_create_layer(2640, 360, "Instances", obj_obstacle_laser);
+	instance_create_layer(1642, 310, "Instances", obj_turret);
+	instance_create_layer(1312, 360, "Instances", obj_obstacle_laser);
 }
 else if num == 3
 {
