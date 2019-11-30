@@ -11,17 +11,21 @@ if(l26B86480_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 673CF85C
 	/// @DnDParent : 26B86480
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "sprite" "ui_score"
 	/// @DnDSaveInfo : "sprite" "9e31582a-f2ba-4a17-a9bb-46135afcee4a"
-	draw_sprite(ui_score, 0, 0, 0);
+	draw_sprite(ui_score, 0, x + 0, y + 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value
 	/// @DnDVersion : 1
 	/// @DnDHash : 6898FD5E
 	/// @DnDParent : 26B86480
-	/// @DnDArgument : "x" "170"
+	/// @DnDArgument : "x" "150"
+	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y" "15"
+	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "caption" ""
 	/// @DnDArgument : "var" "global.distance"
-	draw_text(170, 15,  + string(global.distance));
+	draw_text(x + 150, y + 15,  + string(global.distance));
 }
