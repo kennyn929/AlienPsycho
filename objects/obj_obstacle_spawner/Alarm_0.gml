@@ -1,10 +1,24 @@
 /// @desc Generate obstacles
+range = 2
+if global.difficulty > 40
+	range = 3
+else
+	range = 2
 
-num = irandom_range(0, 3) //Inclusive
+num = irandom_range(0, range) //Inclusive
 
 if num == 0
 {
-	num = irandom_range(0, 2) //Inclusive
+	range = 0
+	if global.difficulty > 40
+		range = 2
+	else if global.difficulty > 20
+		range = 1
+	else
+		range = 0
+	
+	
+	num = irandom_range(0, range) //Inclusive
 	if num == 0
 	{
 		instance_create_layer(1312, 576, "Instances", obj_breakable_block);
