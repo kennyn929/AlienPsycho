@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "27e90846-3a77-41d5-a761-595d5f237e4e",
+            "Value": {
+                "id": "a1f4f260-7cdb-4f9f-984b-05bfb7c06c65",
+                "resourcePath": "sprites\\spr_laser_small\\spr_laser_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2bc3275b-2ad7-4d9b-b6c0-3ce58c3a2420",
             "Value": {
                 "id": "d6c25d97-ea79-4c3d-b12b-641b01777a32",
