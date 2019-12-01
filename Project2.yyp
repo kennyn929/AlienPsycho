@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "932098f6-738c-466e-a4c3-193425702f0a",
+            "Value": {
+                "id": "8febef21-d0db-490c-8595-abb136557a1f",
+                "resourcePath": "scripts\\scr_power_violet\\scr_power_violet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9a5df3e2-de89-4ebc-ae6f-027a564155b8",
             "Value": {
                 "id": "b97d162e-9570-4077-a3a3-5b36a04defdf",
@@ -838,7 +846,8 @@
         "3e34e3e1-d21b-4edf-bf39-881f59471760",
         "9e8ae8d1-05ec-4fb0-8253-4bebcfbd9fbd",
         "f607b9da-343c-428c-92f9-80b96732e302",
-        "d7f8ea7a-ebe6-4187-ab55-a4b8f91f01d4"
+        "d7f8ea7a-ebe6-4187-ab55-a4b8f91f01d4",
+        "932098f6-738c-466e-a4c3-193425702f0a"
     ],
     "tutorial": ""
 }
