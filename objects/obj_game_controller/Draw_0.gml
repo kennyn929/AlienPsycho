@@ -21,11 +21,11 @@ if(l26B86480_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6898FD5E
 	/// @DnDParent : 26B86480
-	/// @DnDArgument : "x" "150"
+	/// @DnDArgument : "x" "185"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "15"
+	/// @DnDArgument : "y" "8"
 	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "caption" ""
 	/// @DnDArgument : "var" "global.distance"
-	draw_text(x + 150, y + 15,  + string(global.distance));
+	draw_text(x + 185, y + 8,  + string(global.distance));
 }
