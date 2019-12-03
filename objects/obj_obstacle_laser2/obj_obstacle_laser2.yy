@@ -1,28 +1,28 @@
 {
-    "id": "4d2b79fc-1c0a-48d7-b64d-e78c118061a9",
+    "id": "32c79b5d-be36-4c90-bc1b-5b5ee20f5c2f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bomb_explode",
+    "name": "obj_obstacle_laser2",
     "eventList": [
         {
-            "id": "14e95a9d-93ac-491e-9a72-1459ef609bd9",
+            "id": "d0e427af-bbf6-4a10-a3bc-e0ecb061516a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 7,
-            "m_owner": "4d2b79fc-1c0a-48d7-b64d-e78c118061a9"
-        },
-        {
-            "id": "7c8d534b-aeac-4870-8908-16e0f8421e51",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4d2b79fc-1c0a-48d7-b64d-e78c118061a9"
+            "m_owner": "32c79b5d-be36-4c90-bc1b-5b5ee20f5c2f"
+        },
+        {
+            "id": "f3446d26-85df-4278-a11a-a2b3e7efd2a2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "c4f63d43-9486-4e09-8806-53b8018eeb46",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "32c79b5d-be36-4c90-bc1b-5b5ee20f5c2f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "69f25572-50b7-4ba4-a1b0-c4d1b9d8644e",
+    "spriteId": "27e90846-3a77-41d5-a761-595d5f237e4e",
     "visible": true
 }

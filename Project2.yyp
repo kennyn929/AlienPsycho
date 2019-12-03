@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "14b21e8a-69af-4432-a914-627846498555",
+            "Value": {
+                "id": "059b2c16-3bed-4a61-8de9-b17b6dcca244",
+                "resourcePath": "objects\\obj_turret2\\obj_turret2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a40bcea-be3b-41c2-b4aa-e770b01b7654",
             "Value": {
                 "id": "a152c357-5bc5-48de-8067-e12c7a67afd0",
@@ -140,6 +148,14 @@
                 "id": "641bd097-4339-4c17-9421-8da68f757275",
                 "resourcePath": "sprites\\spr_blue_run\\spr_blue_run.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32c79b5d-be36-4c90-bc1b-5b5ee20f5c2f",
+            "Value": {
+                "id": "7520038d-39a2-41dd-906c-07b92aae9df1",
+                "resourcePath": "objects\\obj_obstacle_laser2\\obj_obstacle_laser2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -380,6 +396,14 @@
                 "id": "35bc0874-b578-45cb-89d4-39c750ea01cc",
                 "resourcePath": "scripts\\scr_player_green\\scr_player_green.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "756b2dc0-a805-401a-b310-acc23ba64b31",
+            "Value": {
+                "id": "1f04865e-ca02-4afc-99c8-2658a130fc9b",
+                "resourcePath": "paths\\path_enemy_turret\\path_enemy_turret.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -636,6 +660,14 @@
                 "id": "820a79ed-da61-4bd2-9166-fc8035bbbcd1",
                 "resourcePath": "objects\\obj_powerup_red\\obj_powerup_red.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9164518-5271-4996-a740-25ffb6008277",
+            "Value": {
+                "id": "3fcadd15-c3fd-40d3-8fee-8154fadcad64",
+                "resourcePath": "sprites\\spr_small_laser\\spr_small_laser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
