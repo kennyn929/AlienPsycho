@@ -1,7 +1,7 @@
 menu_x = room_width / 2
 menu_y = room_height / 2
 
-button_h = 32
+button_h = 48
 
 button[0] = "Start"
 button[1] = "Exit"
