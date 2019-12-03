@@ -55,9 +55,9 @@ else if num == 4
 	//instance_create_layer(1312, 360, "Instances", obj_obstacle_laser);
 }
 
-if (hasSpawnedTurret == false) and (global.difficulty > 50)
+if (hasSpawnedTurret == false) and (global.difficulty > 20)
 {
-	instance_create_layer(1312, 656, "Instances", obj_turret2);
+	instance_create_layer(1120, 240, "Instances", obj_turret2);
 	hasSpawnedTurret = true;
 }
 
