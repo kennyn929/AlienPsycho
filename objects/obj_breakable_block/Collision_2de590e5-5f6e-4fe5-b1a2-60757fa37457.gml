@@ -25,6 +25,14 @@ if(l7CEB24B0_0)
 	image_index = 0;
 	}
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 294D7ECB
+	/// @DnDParent : 7CEB24B0
+	/// @DnDArgument : "soundid" "sfx_burst"
+	/// @DnDSaveInfo : "soundid" "00e5da36-c74b-4e7b-8859-c08d16ec6f0a"
+	audio_play_sound(sfx_burst, 0, 0);
+
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
 	/// @DnDHash : 5EF663A3

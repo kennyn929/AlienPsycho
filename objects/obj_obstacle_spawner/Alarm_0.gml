@@ -1,9 +1,9 @@
 /// @desc Generate obstacles
 range = 2
-if global.difficulty > 40
-	range = 3
+if global.difficulty > 20 and global.difficulty < 40
+	range = 4
 else
-	range = 2
+	range = 3
 
 num = irandom_range(0, range) //Inclusive
 
@@ -22,6 +22,7 @@ if num == 0
 	if num == 0
 	{
 		instance_create_layer(1312, 576, "Instances", obj_breakable_block);
+		instance_create_layer(1312, 448, "Instances", obj_wall);
 	}
 	else if num == 1
 	{
@@ -51,11 +52,11 @@ else if num == 3
 else if num == 4
 {
 	
-	//instance_create_layer(1312, 656, "Instances", obj_turret);
+	instance_create_layer(1312, 656, "Instances", obj_turret);
 	//instance_create_layer(1312, 360, "Instances", obj_obstacle_laser);
 }
 
-if (hasSpawnedTurret == false) and (global.difficulty > 20)
+if (hasSpawnedTurret == false) and (global.difficulty > 40)
 {
 	instance_create_layer(1120, 240, "Instances", obj_turret2);
 	hasSpawnedTurret = true;

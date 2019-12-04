@@ -1,6 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 08267391
-/// @DnDArgument : "expr" "30"
-/// @DnDArgument : "var" "global.difficulty"
+///@desc Change difficult to 30
+
 global.difficulty = 30;
