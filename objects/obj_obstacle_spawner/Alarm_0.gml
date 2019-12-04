@@ -1,6 +1,6 @@
 /// @desc Generate obstacles
 range = 2
-if global.difficulty > 20 and global.difficulty < 40
+if global.difficulty > 10 and global.difficulty < 40
 	range = 4
 else
 	range = 3
