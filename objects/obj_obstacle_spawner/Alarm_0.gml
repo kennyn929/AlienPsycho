@@ -32,6 +32,7 @@ if num == 0
 		instance_create_layer(1312, 320, "Instances", obj_wall);
 		instance_create_layer(1312, 192, "Instances", obj_wall);
 		instance_create_layer(1312, 64, "Instances", obj_wall);
+		instance_create_layer(1312, -64, "Instances", obj_wall);
 	}
 	else if num == 1
 	{
@@ -40,6 +41,7 @@ if num == 0
 		instance_create_layer(1312, 320, "Instances", obj_breakable_block);
 		instance_create_layer(1312, 192, "Instances", obj_wall);
 		instance_create_layer(1312, 64, "Instances", obj_wall);
+		instance_create_layer(1312, -64, "Instances", obj_wall);
 	}
 	else if num == 2
 	{
@@ -48,6 +50,9 @@ if num == 0
 }
 else if num == 1
 {
+	instance_create_layer(1312, -96, "Instances", obj_wall);
+	instance_create_layer(1312, 32, "Instances", obj_wall);
+	instance_create_layer(1312, 160, "Instances", obj_wall);
 	instance_create_layer(1312, 288, "Instances", obj_wall);
 	instance_create_layer(1312, 416, "Instances", obj_wall);
 	instance_create_layer(1312, 544, "Instances", obj_wall_with_gap);
