@@ -13,5 +13,5 @@ image_angle = direction;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3E2072B0
-/// @DnDArgument : "speed" "7"
-speed = 7;
+/// @DnDArgument : "speed" "5"
+speed = 5;
