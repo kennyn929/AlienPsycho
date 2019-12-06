@@ -23,7 +23,11 @@ Chaning forms (freely)
 Other
 - R - Restart level
 
+Cheats:
+- Q - Increase difficulty
+- P - Player invincibility
+
 Abilities
 - Red | Right arrow key: Break breakable blocks
-- Violet | Right Arrow key: Reflect Lasers (at first playable: only destroys turrets on contact with player)
+- Violet | Right Arrow key: Reflect Lasers
 - Green | Down arrow key: Slide under certain blocks
