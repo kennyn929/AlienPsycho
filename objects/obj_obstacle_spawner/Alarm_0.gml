@@ -1,18 +1,24 @@
 /// @desc Generate obstacles
-range = 2
 if global.difficulty > 10 and global.difficulty < 40
-	range = 4
-else
 	range = 3
+else
+	range = 2
 
-num = irandom_range(0, range) //Inclusive
+num1 = irandom_range(0, range) //Inclusive
+
+while num == num1
+{
+	num1 = irandom_range(0, range)
+}
+
+num = num1
 
 if num == 0
 {
 	range = 0
 	if global.difficulty > 40
 		range = 2
-	else if global.difficulty > 20
+	else if global.difficulty > 10
 		range = 1
 	else
 		range = 0
@@ -23,11 +29,17 @@ if num == 0
 	{
 		instance_create_layer(1312, 576, "Instances", obj_breakable_block);
 		instance_create_layer(1312, 448, "Instances", obj_wall);
+		instance_create_layer(1312, 320, "Instances", obj_wall);
+		instance_create_layer(1312, 192, "Instances", obj_wall);
+		instance_create_layer(1312, 64, "Instances", obj_wall);
 	}
 	else if num == 1
 	{
 		instance_create_layer(1312, 576, "Instances", obj_wall);
 		instance_create_layer(1312, 448, "Instances", obj_breakable_block);
+		instance_create_layer(1312, 320, "Instances", obj_breakable_block);
+		instance_create_layer(1312, 192, "Instances", obj_wall);
+		instance_create_layer(1312, 64, "Instances", obj_wall);
 	}
 	else if num == 2
 	{
@@ -42,14 +54,9 @@ else if num == 1
 }
 else if num == 2
 {
-	instance_create_layer(1312, 416, "Instances", obj_breakable_block);
-	instance_create_layer(1312, 544, "Instances", obj_wall_with_gap);
-}
-else if num == 3
-{
 	instance_create_layer(1312, 576, "Instances", obj_bomb);
 }
-else if num == 4
+else if num == 3
 {
 	
 	instance_create_layer(1312, 656, "Instances", obj_turret);
